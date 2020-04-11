@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c03a3a5-5664-484d-8ddf-520d8f99c705" name="Default Changelist" comment="start a book market project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3c03a3a5-5664-484d-8ddf-520d8f99c705" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586608253629</updated>
-      <workItem from="1586608254785" duration="20172000" />
+      <workItem from="1586608254785" duration="20284000" />
     </task>
     <task id="LOCAL-00001" summary="start a book market project">
       <created>1586631003566</created>
@@ -74,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586631224408</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="header top is completed">
+      <created>1586631451998</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586631451998</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start a book market project" />
-    <option name="LAST_COMMIT_MESSAGE" value="start a book market project" />
+    <MESSAGE value="header top is completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="header top is completed" />
   </component>
 </project>
