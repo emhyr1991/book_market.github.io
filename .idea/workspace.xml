@@ -68,7 +68,12 @@
       <workItem from="1586767596853" duration="22005000" />
       <workItem from="1586846069727" duration="10747000" />
       <workItem from="1586954383042" duration="11971000" />
-      <workItem from="1587027895789" duration="10898000" />
+      <workItem from="1587027895789" duration="11128000" />
+      <workItem from="1587054129519" duration="238000" />
+      <workItem from="1587114161505" duration="5214000" />
+      <workItem from="1587134346107" duration="4552000" />
+      <workItem from="1587193802022" duration="3255000" />
+      <workItem from="1587538364231" duration="11354000" />
     </task>
     <task id="LOCAL-00001" summary="start a book market project">
       <created>1586631003566</created>
@@ -119,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586967858046</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="home page desktop version is done">
+      <created>1587043403386</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587043403386</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +157,7 @@
     <MESSAGE value="search section fixed" />
     <MESSAGE value="Category section first block is complete" />
     <MESSAGE value="tabs is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="tabs is done" />
+    <MESSAGE value="home page desktop version is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="home page desktop version is done" />
   </component>
 </project>
