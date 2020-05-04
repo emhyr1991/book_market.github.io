@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,6 +17,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="book_market.github.io" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,6 +41,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -73,7 +76,10 @@
       <workItem from="1587114161505" duration="5214000" />
       <workItem from="1587134346107" duration="4552000" />
       <workItem from="1587193802022" duration="3255000" />
-      <workItem from="1587538364231" duration="11354000" />
+      <workItem from="1587538364231" duration="11733000" />
+      <workItem from="1587639092409" duration="70000" />
+      <workItem from="1588576428269" duration="4267000" />
+      <workItem from="1588594728729" duration="10953000" />
     </task>
     <task id="LOCAL-00001" summary="start a book market project">
       <created>1586631003566</created>
@@ -131,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587043403386</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="home page media is done">
+      <created>1587575857508</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587575857508</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +171,7 @@
     <MESSAGE value="Category section first block is complete" />
     <MESSAGE value="tabs is done" />
     <MESSAGE value="home page desktop version is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="home page desktop version is done" />
+    <MESSAGE value="home page media is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="home page media is done" />
   </component>
 </project>
