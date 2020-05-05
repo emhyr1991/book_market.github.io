@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,12 @@
       <workItem from="1587538364231" duration="11733000" />
       <workItem from="1587639092409" duration="70000" />
       <workItem from="1588576428269" duration="4267000" />
-      <workItem from="1588594728729" duration="10953000" />
+      <workItem from="1588594728729" duration="11134000" />
+      <workItem from="1588613343801" duration="52000" />
+      <workItem from="1588613424477" duration="7000" />
+      <workItem from="1588613447618" duration="5000" />
+      <workItem from="1588613471606" duration="22000" />
+      <workItem from="1588670477586" duration="14359000" />
     </task>
     <task id="LOCAL-00001" summary="start a book market project">
       <created>1586631003566</created>
@@ -144,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587575857508</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="product block is done">
+      <created>1588613293416</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588613293416</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +183,7 @@
     <MESSAGE value="tabs is done" />
     <MESSAGE value="home page desktop version is done" />
     <MESSAGE value="home page media is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="home page media is done" />
+    <MESSAGE value="product block is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="product block is done" />
   </component>
 </project>
