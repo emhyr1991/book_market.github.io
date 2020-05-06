@@ -83,7 +83,9 @@
       <workItem from="1588613424477" duration="7000" />
       <workItem from="1588613447618" duration="5000" />
       <workItem from="1588613471606" duration="22000" />
-      <workItem from="1588670477586" duration="14359000" />
+      <workItem from="1588670477586" duration="14586000" />
+      <workItem from="1588691257606" duration="9000" />
+      <workItem from="1588745991082" duration="5101000" />
     </task>
     <task id="LOCAL-00001" summary="start a book market project">
       <created>1586631003566</created>
@@ -155,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588613293416</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="tabs and form is complete">
+      <created>1588690888920</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588690888920</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +193,7 @@
     <MESSAGE value="home page desktop version is done" />
     <MESSAGE value="home page media is done" />
     <MESSAGE value="product block is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="product block is done" />
+    <MESSAGE value="tabs and form is complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="tabs and form is complete" />
   </component>
 </project>
