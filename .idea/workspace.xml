@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,7 +90,7 @@
       <workItem from="1588745991082" duration="5191000" />
       <workItem from="1588833072922" duration="14951000" />
       <workItem from="1588864301933" duration="485000" />
-      <workItem from="1589003255166" duration="4702000" />
+      <workItem from="1589003255166" duration="5349000" />
     </task>
     <task id="LOCAL-00001" summary="start a book market project">
       <created>1586631003566</created>
@@ -196,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589006502328</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="bug fixes third part">
+      <created>1589008320931</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1589008320931</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +238,7 @@
     <MESSAGE value="product page media is done" />
     <MESSAGE value="bug fixes" />
     <MESSAGE value="bug fixes second part" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug fixes second part" />
+    <MESSAGE value="bug fixes third part" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug fixes third part" />
   </component>
 </project>
