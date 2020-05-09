@@ -873,8 +873,8 @@ body {
     border-bottom: 4px solid #81BD66; }
 
 footer {
-  height: 390px;
-  background-color: #454340; }
+  background-color: #454340;
+  padding-bottom: 20px; }
 
 .footer-block {
   display: flex;
@@ -888,7 +888,8 @@ footer {
     .footer-block .footer-block__content .underline {
       width: 175px;
       height: 1px;
-      background-color: #CDCDCD; }
+      background-color: #CDCDCD;
+      margin: 6px 0; }
     .footer-block .footer-block__content span {
       margin-top: 25px;
       margin-bottom: 25px;
@@ -898,16 +899,16 @@ footer {
     .footer-block .footer-block__content .math {
       display: block;
       width: 100%;
-      text-align: center; }
+      text-align: start; }
   .footer-block a {
     text-decoration: none;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 25px;
     font-size: 15px;
     font-weight: 300;
-    color: #CDCDCD; }
+    color: #CDCDCD;
+    max-width: 175px; }
 
 .footer-bottom-one {
   height: 100px;

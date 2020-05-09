@@ -508,8 +508,8 @@ body {
 }
 //Footer
 footer {
-    height: 390px;
     background-color: #454340;
+    padding-bottom: 20px;
 }
 .footer-block {
     display: flex;
@@ -523,7 +523,8 @@ footer {
         & .underline {
             width: 175px;
             height: 1px;
-            background-color: #CDCDCD;;
+            background-color: #CDCDCD;
+            margin: 6px 0;
         }
         & span {
             margin-top: 25px;
@@ -535,7 +536,7 @@ footer {
         & .math {
             display: block;
             width: 100%;
-            text-align: center;
+            text-align: start;
         }
     }
     & a {
@@ -543,10 +544,10 @@ footer {
         display: flex;
         justify-content: center;
         align-items: center;
-        height: 25px;
         font-size: 15px;
         font-weight: 300;
         color: #CDCDCD;
+        max-width: 175px;
     }
 }
 //Footer bottom
