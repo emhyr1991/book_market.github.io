@@ -600,7 +600,8 @@ body {
     align-items: center;
     justify-content: center; }
     .nav-block a.nav-block__link-active {
-      background: linear-gradient(to top, #7DB863, #8ED171); }
+      background: linear-gradient(to top, #7DB863, #8ED171);
+      color: white; }
 
 .section-nav {
   border-top: 1px solid #DEDEDE;
@@ -733,7 +734,8 @@ body {
     border-style: none;
     border-radius: 4px;
     color: white;
-    font-size: 16px; }
+    font-size: 16px;
+    cursor: pointer; }
 
 .section-categories {
   margin-top: 15px;
