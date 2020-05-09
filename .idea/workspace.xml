@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +88,9 @@
       <workItem from="1588670477586" duration="14586000" />
       <workItem from="1588691257606" duration="9000" />
       <workItem from="1588745991082" duration="5191000" />
-      <workItem from="1588833072922" duration="14812000" />
+      <workItem from="1588833072922" duration="14951000" />
+      <workItem from="1588864301933" duration="485000" />
+      <workItem from="1589003255166" duration="1778000" />
     </task>
     <task id="LOCAL-00001" summary="start a book market project">
       <created>1586631003566</created>
@@ -172,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588768405510</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="product page media is done">
+      <created>1588849850315</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1588849850316</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +214,7 @@
     <MESSAGE value="product block is done" />
     <MESSAGE value="tabs and form is complete" />
     <MESSAGE value="desktop version of the product page is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="desktop version of the product page is done" />
+    <MESSAGE value="product page media is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="product page media is done" />
   </component>
 </project>
