@@ -25,6 +25,11 @@ body {
     text-decoration: none;
     color: lightgray;
     font-weight: 100;
+    transition: all .3s;
+    &:hover {
+        color: #ffffff;
+        transition: all .3s;
+    }
 }
 //Section search
 .section-search {

@@ -465,7 +465,11 @@ body {
   margin-left: 25px;
   text-decoration: none;
   color: lightgray;
-  font-weight: 100; }
+  font-weight: 100;
+  transition: all .3s; }
+  .section-top__link:hover {
+    color: #ffffff;
+    transition: all .3s; }
 
 .section-search {
   background-color: #EDEDED;
