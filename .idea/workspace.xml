@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c03a3a5-5664-484d-8ddf-520d8f99c705" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3c03a3a5-5664-484d-8ddf-520d8f99c705" name="Default Changelist" comment="make a hover effect for main menu">
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
@@ -86,7 +85,7 @@
       <workItem from="1594749723947" duration="42000" />
       <workItem from="1594749778709" duration="9000" />
       <workItem from="1595105233067" duration="46000" />
-      <workItem from="1599458804592" duration="824000" />
+      <workItem from="1599458804592" duration="1136000" />
     </task>
     <task id="LOCAL-00001" summary="start a book market project">
       <created>1586631003566</created>
@@ -207,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589009005140</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="make a hover effect for main menu">
+      <created>1599459720207</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1599459720207</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,7 +248,8 @@
     <MESSAGE value="bug fixes second part" />
     <MESSAGE value="bug fixes third part" />
     <MESSAGE value="bug fixes fourth part" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug fixes fourth part" />
+    <MESSAGE value="make a hover effect for main menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="make a hover effect for main menu" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594749786192">
