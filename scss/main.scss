@@ -172,10 +172,16 @@ body {
         display: flex;
         align-items: center;
         justify-content: center;
+        transition: all .3s;
         &.nav-block__link-active {
             background: linear-gradient(to top, #7DB863, #8ED171);
             color: white;
         }
+    }
+    & a:hover {
+        background: linear-gradient(to top, #7DB863, #8ED171);
+        color: white;
+        transition: all .3s;
     }
 }
 .section-nav {

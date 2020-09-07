@@ -598,10 +598,15 @@ body {
     height: 100%;
     display: flex;
     align-items: center;
-    justify-content: center; }
+    justify-content: center;
+    transition: all .3s; }
     .nav-block a.nav-block__link-active {
       background: linear-gradient(to top, #7DB863, #8ED171);
       color: white; }
+  .nav-block a:hover {
+    background: linear-gradient(to top, #7DB863, #8ED171);
+    color: white;
+    transition: all .3s; }
 
 .section-nav {
   border-top: 1px solid #DEDEDE;
