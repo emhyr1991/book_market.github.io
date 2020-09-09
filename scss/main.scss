@@ -469,6 +469,7 @@ body {
 .tab_content {
     border: 1px solid #D6D6D6;
 }
+
 .tab_item {
     display: flex;
     flex-wrap: wrap;
@@ -480,6 +481,7 @@ body {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        position: relative;
         & p {
             font-size: 15px;
             color: #696969;
@@ -492,6 +494,31 @@ body {
             color: #F26A6D;
             margin-top: 5px;
         }
+        .price-off {
+            display: flex;
+        }
+    }
+}
+.price-off {
+    width: 50px;
+    height: 50px;
+    background-color: #F05356;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    right: 10px;
+    display: none;
+    border-radius: 50%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    span {
+        color: #ffffff !important;
+    }
+    p {
+        color: #ffffff !important;
     }
 }
 //Number buttons

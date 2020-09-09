@@ -849,7 +849,8 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center; }
+    align-items: center;
+    position: relative; }
     .tab_item .tab_item__box p {
       font-size: 15px;
       color: #696969;
@@ -860,6 +861,28 @@ body {
       font-weight: 400;
       color: #F26A6D;
       margin-top: 5px; }
+    .tab_item .tab_item__box .price-off {
+      display: flex; }
+
+.price-off {
+  width: 50px;
+  height: 50px;
+  background-color: #F05356;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  right: 10px;
+  display: none;
+  border-radius: 50%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; }
+  .price-off span {
+    color: #ffffff !important; }
+  .price-off p {
+    color: #ffffff !important; }
 
 .tab_item__number-buttons {
   position: absolute;
